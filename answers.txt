@@ -1,1 +1,4 @@
+What is the difference between a merge and a rebase?
 
+the difference is that when you use rebase to merge, it rewrites the history
+which makes a cleaner linear path.
