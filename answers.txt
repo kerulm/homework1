@@ -1,1 +1,6 @@
+What is a remote repository?
+
+a remote repository is what teams use to collaborate on files together. I can
+make changes in my local laptop and then push those changes to the remote
+repoistory so the team can make changes and also see the differences made.
 
